@@ -10,6 +10,9 @@ cachegrind*
 cmake-build*
 CMake*
 *.bak
+bin*
+*.o
+WSL*
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

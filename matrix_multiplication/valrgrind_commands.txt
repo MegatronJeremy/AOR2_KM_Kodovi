@@ -1,5 +1,0 @@
-// hit/miss info, link: https://valgrind.org/docs/manual/cg-manual.html
-valgrind --tool=cachegrind ./program arg0 arg1 ...
-
-// memory trace, link: https://valgrind.org/docs/manual/lk-manual.html
-valgrind --tool=lackey ./program arg0 arg1 .... &> memory_trace.txt
